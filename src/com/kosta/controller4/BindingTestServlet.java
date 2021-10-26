@@ -19,7 +19,7 @@ import javax.servlet.http.HttpSession;
  * request(요청문서) ......HttpServletRequest....request가 살아있는동안 유효하다. 
  */
 
-
+//git연습중입니다
 @WebServlet("/bind")
 public class BindingTestServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
